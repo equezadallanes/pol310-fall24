@@ -1,0 +1,37 @@
+---
+title: "Week 6: How Religion Affects Politics"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 6 - How Religion Affects Politics
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, September 30
+
+- Djupe, Paul A., and Christopher P. Gilbert. 2009. "A Theory of Religious Influences on Political Behavior." In *The Political Influence of Churches.* New York: Cambridge University Press. (Introduction: pp 1-20.) [{{< fa university >}}](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=nlebk&AN=331291&site=eds-live&scope=site&custid=asc1&ebv=EB&ppid=pp_1)
+
+- Brewer, Mark D., Rogan Kersh, and R. Eric Petersen. 2003. "Assessing Conventional Wisdom about Religion and Politics: A Preliminary View from the Pews." *Journal for the Scientific Study of Religion* 42(1): 125–36. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2F1468-5906.00166) {{< fa pen >}}
+
+
+
+
+## Wednesday, October 2
+
+### Readings
+
+- Campbell, David E. 2004. "Acts of Faith: Churches and Political Engagement." *Political Behavior* 26(2): 155–80. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1023%2FB%3APOBE.0000035961.78836.5f)
+
+
+ 
+:::{.callout-important}
+
+### Deadline
+
+Front end of congregational visit paper due Friday, October 4, at 11:59pm on Canvas
+
+:::

@@ -1,0 +1,24 @@
+---
+title: "Week 10: Latino Catholics and Protestants"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 10 - Latino Catholics and Protestants
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, October 28
+
+- Leal, David L. 2010. "Religion and the Political and Civic Lives of Latinos." In *Religion and Democracy in the United States: Danger or Opportunity?* Alan Wolfe and Ira Katznelson (eds). Princeton, NJ: Princeton University Press. (Chapter 10: pp. 308-352.) {{< fa file-pdf >}} available on Canvas. {{< fa pen >}}
+
+
+
+### Wednesday, October 30
+
+- Molina, Alejandra. 2020. "Latino Protestants More Conservative, Supportive of Trump than Latino Catholics, Poll Finds." *Religion News Service.* [{{< fa link >}}](https://religionnews.com/2020/12/01/latino-protestants-more-conservative-supportive-of-trump-than-latino-catholics-poll-finds/)
+
+

@@ -1,0 +1,41 @@
+---
+title: "Exam-style Questions"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 12pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 310 - Religion and Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+## Deadline
+
+
+
+:::
+
+
+## Purpose
+
+
+
+
+## Task
+
+
+
+## Criteria for success
+
+A successful answer will:
+
+
+
+

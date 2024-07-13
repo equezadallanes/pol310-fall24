@@ -1,0 +1,32 @@
+---
+title: "Week 13: The Nones"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - The Nones
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, November 18
+
+- Cohen, Kate. October 3, 2023. ["America doesn't need more God. It needs more atheists."](https://www.washingtonpost.com/opinions/2023/10/03/kate-cohen-atheism/) *The Washington Post*
+
+
+
+### Wednesday, November 20
+
+- [Segment from *Full Frontal with Samantha Bee*](https://youtu.be/tlT2JCulIu8?si=4DakqvzvXcergq_2)
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+Final draft of campaign memo due Friday, November 22, at 11:59pm on Canvas
+
+:::

@@ -1,0 +1,40 @@
+---
+title: "Week 4: The (Messy) Relationship Between Church and State (cont.)"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - The (Messy) Relationship Between Church and State (cont.)
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Monday, September 16
+
+- *Hail Satan?*, directed by Penny Lane. 2019. Hard Working Movies/Magnolia Pictures. (will watch in class)
+
+
+
+### Wednesday, September 18
+
+- Something from the news.
+
+
+
+
+::: {.content-visible when-format="html"}
+
+---
+ 
+### Further Reading
+
+- Hertzke, Allen D., Laura R. Olson, Kevin R. den Dulk, and Robert Booth Fowler. 2018. "Church and State in the Courts." In *Religion and Politics in America: Faith, Culture, and Strategic Choices. 6th ed.* New York, NY: Routledge. (Chapter 12; {{< fa file-pdf >}} available on Canvas)
+
+
+:::
+
+
+ 
+
+

@@ -1,0 +1,31 @@
+---
+title: "Week 5: How Did We Get Here? Historical Context"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 5 - How Did We Get Here? Historical Context
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Monday, September 23
+
+- Putnam, Robert and David Campbell. 2010. "Religiosity in America: Shock and Two Aftershocks." *American Grace.* New York: Simon & Schuster. (Chapter 4: pp. 91-133). ({{< fa file-pdf >}} available on Canvas) {{< fa pen >}}
+
+
+
+### Wednesday, September 25
+
+- Hunter, James Davison. 2006. "The Enduring Culture War." In *Is There A Culture War? A Dialogue on Values and American Public Life.* James Davison Hunter and Alan Wolfe (eds). Washington D.C.: Brookings Institution Press (Chapter 2: pp. 10-41). [{{< fa university >}}](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=nlebk&AN=174424&site=eds-live&scope=site&custid=asc1&ebv=EB&ppid=pp_10)
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+Exam-style question 1 due Friday, September 27, at 11:59pm on Canvas
+
+:::

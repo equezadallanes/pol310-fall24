@@ -1,0 +1,28 @@
+author: Enrique Quezada-Llanes
+
+instructor:
+  name: Enrique Quezada-Llanes
+  name_no_title: Enrique Quezada-Llanes
+  email: equezada@agnesscott.edu
+  url: "https://www.equezadallanes.com"
+  twitter: oequezada
+  github: equezadallanes
+  office: "Buttrick Hall 315"
+  appointment_url: 
+
+course:
+  number: "POL 310"
+  semester: "Fall 2024"
+  days: "MW"
+  time: "2:00 PM – 3:15 PM"
+  location: "Buttrick Hall, Room 208"
+  dates: "August 28–December 18, 2024"
+  url: "https://pol310.fall24.equezadallanes.com/"
+
+university:
+  name: Agnes Scott College
+  url: "https://www.agnesscott.edu"
+
+school:
+  name: Department of Political Science
+  url: "https://www.agnesscott.edu/academics/majors-minors/political-science/index.html"

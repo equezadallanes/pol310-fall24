@@ -1,0 +1,20 @@
+---
+title: "Week 2: Secularization Theory"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - Secularization Theory
+
+:::
+
+During the first week we will go over the syllabus, which you can check out on the homepage. We will also talk about how religious Americans are today and theories of why Americans continue to be so religious when compared to other industrialized nations (think Europe, for example).
+
+### Monday, September 2
+
+NO CLASS. Labor Day Holiday.
+
+
+### Wednesday, September 4
+
+- Wald, Kenneth and Allison Calhoun-Brown. 2018. "A Secular Society?" In *Religion and Politics in the United States 6th Edition.* New York: Rowman & Littlefield. (read Chapter 1; skim Chapter 2). [{{< fa university >}}](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=nlebk&AN=341943&site=eds-live&scope=site&custid=asc1&ebv=EB&ppid=pp_1) {{< fa pen >}}

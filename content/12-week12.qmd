@@ -1,0 +1,33 @@
+---
+title: "Week 12: Religious Minorities"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - Religious Minorities
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, November 11
+
+- Campaign Memo Peer-Reviews
+
+:::{.callout-important}
+
+### Deadline
+
+Draft of campaign memo due Monday, November 11, at 2:30pm on Canvas
+
+:::
+
+
+
+### Wednesday, November 13
+
+- Hertzke, Allen D., Laura R. Olson, Kevin R. den Dulk, and Robert Booth Fowler. 2018. "Judaism, Islam, and Other Expressions of Religious Pluralism." *Religion and Politics in America: Faith, Culture, and Strategic Choices. 6th ed.* New York, NY: Routledge. (Chapter 4.) {{< fa file-pdf >}} available on Canvas. {{< fa pen >}}
+
+
+

@@ -1,0 +1,31 @@
+---
+title: "Week 14: Assignment and Break"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 14 - Assignment and Break
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, November 25
+
+:::{.callout-important}
+
+### Deadline
+
+Exam-style question 2 due Monday, November 25, at 11:59pm on Canvas
+
+:::
+
+
+
+### Wednesday, November 27
+
+NO CLASS. Thanksgiving break.
+
+
+
