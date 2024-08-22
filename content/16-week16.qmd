@@ -22,7 +22,7 @@ title: "Week 16: From Politics to Religion"
 
 ### Wednesday, December 11
 
-- Something else
+- Burge, Ryan P. 2021. "Why 'Evangelical' Is Becoming Another Word for 'Republican'." *The New York Times.* [{{< fa link >}}](https://www.nytimes.com/2021/10/26/opinion/evangelical-republican.html)
 
 
 :::{.callout-important}

@@ -6,9 +6,9 @@ format:
       documentclass: article
       fontsize: 12pt
       colorlinks: true
-      citecolor: DarkOrchid
-      linkcolor: DarkOrchid
-      urlcolor: DarkOrchid
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
       geometry: margin=1in
       output-file: "POL310_syllabus"
 ---
@@ -210,11 +210,6 @@ Agnes Scott is here to help you if you have experienced any form of sexual haras
 ## Diversity and Inclusion
 
 Agnes Scott is a diverse and inclusive community. As one of the most diverse colleges in the nation, ASC is ideally positioned to be the model of a diverse and inclusive community that society can aspire to be. Such diversity raises the intellectual quality of the classroom experience, creating a unique environment for learning to understand and navigate the challenges of our times. By studying, living, and playing together, Agnes Scott College’s remarkably diverse student body hones the habits of mind, skills, and knowledge essential to ethical and innovative leadership in our increasingly heterogeneous and global society.  As such, this course adheres to the principles of diversity and inclusion as integral to the Agnes Scott community and respects people from all backgrounds. As a first step, this course affirms people’s decisions about gender expression and identity and will use each other’s preferred names and gender pronouns at all times.
-
-
-## Chosen Names and Personal Pronouns
- 
-Everyone has the right to be addressed by the name and pronouns that correspond to their gender identity. Rosters do not list gender or pronouns, so you may indicate the pronouns you use so that I don't make assumptions based on your name and/or appearance/self-presentation (*you are not obligated to do so*). If you use a chosen name, please let me know. Chosen names and pronouns are to be respected at all times in the classroom. Mistakes in addressing one another may happen, so I encourage an environment of openness to correction and learning. I will not, however, tolerate repeated comments that disrespect or antagonize students who have indicated pronouns or a chosen name.
 
 
 ## Center for Writing and Speaking
