@@ -18,24 +18,31 @@ format:
 :::{.callout-important}
 ## Deadline
 
-
+Exam-style Question 1: Due September 29 at 11:59 pm on Canvas
 
 :::
 
 
 ## Purpose
 
+The goal of this assignment is to provide further practice in writing full answers to substantive questions about the intersection of religion and politics. It will also help you prepare for the final exam that will have similar questions.
 
 
 
 ## Task
 
+Answer the question below. Be sure to tackle the question fully and provide all the necessary pieces of information. Expect to use at minimum of four sentences (this is not a requirement but it may be necessary to actually answer the question).
+
+1. In his book *Culture Wars*, Hunter argues that there is an important cultural divide in American politics that determines positions on a variety of issues including the arts, abortion, smoking, nuclear power, and gay rights. Using abortion, critical race theory, or another current hot-button issue as an example, discuss whether there is support for the culture war hypothesis. To do this, you will need to establish who the two camps are, who may be driving these divisions, and what you would expect to see if there is a culture war.
 
 
 ## Criteria for success
 
 A successful answer will:
 
-
+1. Include a clear thesis statement
+2. Define all the necessary terms
+3. Use full sentences
+4. Provide examples to explain the claims.
 
 
