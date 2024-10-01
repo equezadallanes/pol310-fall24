@@ -23,6 +23,15 @@ title: "Week 7: Mobilization and Vote Choice"
 
 
 
+:::{.callout-important}
+
+### Deadline
+
+Front end of congregational visit paper due Friday, October 11 (updated), at 11:59pm on Canvas
+
+:::
+
+
  
 ::: {.content-visible when-format="html"}
 

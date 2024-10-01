@@ -18,7 +18,7 @@ format:
 :::{.callout-important}
 ## Deadline
 
-Exam-style Question 1: Due September 29 at 11:59 pm on Canvas
+Exam-style Question 1: Due October 2 at 11:59 pm on Canvas
 
 :::
 
