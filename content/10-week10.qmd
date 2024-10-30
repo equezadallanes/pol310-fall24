@@ -22,3 +22,12 @@ title: "Week 10: Latino Catholics and Protestants"
 - Molina, Alejandra. 2020. "Latino Protestants More Conservative, Supportive of Trump than Latino Catholics, Poll Finds." *Religion News Service.* [{{< fa link >}}](https://religionnews.com/2020/12/01/latino-protestants-more-conservative-supportive-of-trump-than-latino-catholics-poll-finds/)
 
 
+::: {.content-visible when-format="html"}
+
+### In-class readings
+
+- PRRI. ["How Much Do Hispanics Differ in Their Support for LGBTQ Rights?"](https://www.prri.org/spotlight/how-much-do-hispanics-differ-in-their-support-for-lgbtq-rights/)
+
+- Axios. ["Hispanic Protestants are politically diverse, survey finds"](https://www.axios.com/2024/09/17/hispanic-protestants-public-religion-research-institute)
+
+:::
