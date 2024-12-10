@@ -60,6 +60,9 @@ website:
             - content/15-week15.qmd
             - content/16-week16.qmd
             - content/17-week17.qmd
+        - section: "Exam Guide"
+          contents:
+            - content/final-guide.qmd
     
     - title: "Resources"
       contents:
